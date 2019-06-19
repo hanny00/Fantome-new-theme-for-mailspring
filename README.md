@@ -8,4 +8,4 @@ and  the [Mailspring Arc Dark Theme](https://github.com/mjohnson8165/mailspring-
 To install Download the Zip file, extract to your home folder, open mailspring, open the menu “edit” scroll down to theme install and choose the extract folder. If the theme is not installed automatically open the menu “edit” scroll down to change theme, choose the theme from here
 
 
-![](preview.png)
+![](Screenshot_20190618_155804.png)
